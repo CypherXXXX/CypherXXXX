@@ -25,7 +25,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&labelColor=0D1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Focus-AI Engineer%20%26%20Full--Stack-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 </div>
 
 <br/>
